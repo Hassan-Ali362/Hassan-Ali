@@ -9,11 +9,11 @@
 
 ### 📘 About Me
 
-- 🚀 I’m currently learning **React, Node, Express, MongoDB**
-- 💬 Ask me anything about **JavaScript, MERN stack, Tailwind CSS**
+- 🚀 I’m currently learning in-depth About Mern 
+- 💬 Ask me anything about **JavaScript, MERN stack, Tailwind CSS etc**
 - 🤖 Exploring basic AI tools alongside web dev
 - 📄 [Download Resume](https://github.com/Hassan-Ali362/Hassan-Ali362/raw/main/Hassan-Resume.pdf)
-- 📫 Email: **your-email@example.com**
+- 📫 Email: **hassanalimalikk@example.com**
 
 ---
 
@@ -36,7 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hassan-Ali362&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Ali362&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -44,13 +43,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:hassanalimalikk@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/hassan-ali123/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://www.instagram.com/hassan_ali362/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
